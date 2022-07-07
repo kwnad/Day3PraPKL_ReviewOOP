@@ -27,7 +27,7 @@
         </div>
         </nav>
 
-            <center><h2>Guru</h2></center>
+            <center><h2>Data Guru</h2></center>
         <!-- CARDs -->
         <div class="container">
         <div class="card">
