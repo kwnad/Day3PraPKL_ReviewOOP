@@ -62,7 +62,7 @@
                         <td>
 
                             <form action="proses.php" method="post">
-                            <a href="show.php?no=<?php echo $data['no']; ?>" class="btn btn-warning">Show</a> ||
+                            <a href="show.php?no=<?php echo $data['no']; ?>" class="btn btn-warning">Tampilkan</a> ||
                             <a href="edit.php?no=<?php echo $data['no']; ?>" class="btn btn-success">Edit</a> ||
                             <input type="hidden" name="no" value="<?php echo $data['no']; ?>">
                             <input type="hidden" name="aksi" value="delete">
