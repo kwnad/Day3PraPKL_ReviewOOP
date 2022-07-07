@@ -32,7 +32,7 @@
         <div class="container">
         <div class="card">
             <div class="card-header">
-                Tambah Guru
+                Tambah Data Guru
             </div>
             <div class="card-body">
                 
